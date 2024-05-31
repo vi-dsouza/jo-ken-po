@@ -1,6 +1,6 @@
 # JO KEN PÔ 
 
-Este jogo é um simples jogo de (pedra, papel e tesoura) desenvolvido em Python. O jogador escolhe uma opção e joga com a máquina que faz escolhas aleatórias. Temdo o seu placar atualizado a cada rodada.
+Este jogo é um simples jogo de (pedra, papel e tesoura) desenvolvido em Python. O jogador escolhe uma opção e joga com a máquina que faz escolhas aleatórias. Tendo o seu placar atualizado a cada rodada.
 
 ## ⚙️ Funcionalidades
 
